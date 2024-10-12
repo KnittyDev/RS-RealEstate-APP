@@ -29,6 +29,19 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
+## Futures
+✅ Mapping and viewing active listings with Google API
+✅ Search active adress with Google API
+✅ Modern UI with schadcnUI
+✅ Using Clerk
+✅ Responsive Full Functional Design
+✅ Save and Draft post
+✅ Edit / Delete / Create Post
+✅ Change username and e-mail adress
+✅ Google and Facebook Auth
+✅ Full Description for posts
+✅ Bath, Room, M2, Square Symbols
+
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
